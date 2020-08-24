@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React, {useState,useEffect} from 'react';
-import './chat.css';
+import './chat.csfirs';
 import {Avatar,IconButton} from '@material-ui/core';
 import SearchIcon from '@material-ui/icons/Search';
 import AttachFile from '@material-ui/icons/AttachFile';
